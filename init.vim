@@ -7,5 +7,6 @@ Plug 'morhetz/gruvbox'
 Plug 'vim-airline/vim-airline'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'mhinz/vim-startify'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 

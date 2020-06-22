@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/mikeal200/.vim/plugged/vim-airline'
 let g:netrw_dirhist_8='/home/mikeal200/Documents/BoidSimJava'
 let g:netrw_dirhist_7='/home/mikeal200/.config/nvim'
 let g:netrw_dirhist_6='/home/mikeal200/.config'
